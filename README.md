@@ -16,7 +16,7 @@ This project features:
 
 ## 📄 Included Analyses
 
-### 1. **A Molecular Single-Cell Lung Atlas of Lethal COVID-19**
+### 1. **2022 A Molecular Single-Cell Lung Atlas of Lethal COVID-19**
 
 - **Notebook:**  
   [`single_cell_analysis_complete_class.ipynb`](https://github.com/mousepixels/sanbomics_scripts/blob/main/single_cell_analysis_complete_class.ipynb)
