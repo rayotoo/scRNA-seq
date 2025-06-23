@@ -30,7 +30,9 @@ This project features:
 
 ---
 
-### 2. **2024 Updated Single-Cell Guide – Part 1: RNA Preprocessing and QC**
+### 2. **2024 Updated Single-Cell Guide**
+
+#### 🧪 Part 1: RNA Preprocessing and Quality Control
 
 - **Notebook:**  
   [`preprocessing.ipynb`](https://github.com/mousepixels/sanbomics_scripts/blob/main/sc2024/preprocessing.ipynb)
@@ -41,6 +43,14 @@ This project features:
 
 - **Video Series (Playlist):**  
   [Watch on YouTube](https://www.youtube.com/watch?v=cmOlCTGX4Ik&list=PLi1VnGoeDGjuZmB8zJNqpuhGe6Zj7HNYQ)
+
+#### 🧬 Part 2: RNA Integration and Annotation
+
+- **Notebook:**  
+  [`annotation_integration.ipynb`](https://github.com/mousepixels/sanbomics_scripts/blob/main/sc2024/annotation_integration.ipynb)
+
+- **Video Tutorial:**  
+  [Watch on YouTube](https://www.youtube.com/watch?v=FqG_O12oWR4)
 
 ---
 
